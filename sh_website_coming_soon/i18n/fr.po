@@ -1,0 +1,544 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* sh_website_coming_soon
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-27 11:22+0000\n"
+"PO-Revision-Date: 2020-10-27 11:22+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_10
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_12
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_13
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_14
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_15
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_16
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_17
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_18
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_19
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_2
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_29
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_4
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_5
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_6
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_7
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_8
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_9
+msgid "00"
+msgstr "00"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_4
+msgid "000"
+msgstr "000"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_30
+msgid ""
+"<i class=\"fa  fa-github\"/>\n"
+"                  Github"
+msgstr ""
+"<i class=\"fa  fa-github\"/>\n"
+"                  Github"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_30
+msgid ""
+"<i class=\"fa fa-facebook\"/>\n"
+"                  Facebook"
+msgstr ""
+"<i class=\"fa fa-facebook\"/>\n"
+"                  Facebook"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_30
+msgid ""
+"<i class=\"fa fa-instagram\"/>\n"
+"                  Instagram"
+msgstr ""
+"<i class=\"fa fa-instagram\"/>\n"
+"                  Instagram"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_30
+msgid ""
+"<i class=\"fa fa-linkedin\"/>\n"
+"                  Linkedin"
+msgstr ""
+"<i class=\"fa fa-linkedin\"/>\n"
+"                  Linkedin"
+
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_30
+msgid ""
+"<i class=\"fa fa-twitter\"/>\n"
+"                  Twitter"
+msgstr ""
+"<i class=\"fa fa-twitter\"/>\n"
+"                  Gorjeo"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_23
+msgid ""
+"<span class=\"alt-font italic accent-text-color font-weight-500 \">awesome</span>\n"
+"                              ."
+msgstr ""
+"<span class=\"alt-font italic accent-text-color font-weight-500 \">impressionnante</span>\n"
+"                              ."
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_20
+msgid ""
+"<span class=\"days\">\n"
+"                        <span class=\"sh_number js_cls_days_count\">00</span>\n"
+"                        <span class=\"sh_label\">days</span>\n"
+"                     </span>"
+msgstr ""
+"<span class=\"days\">\n"
+"                        <span class=\"sh_number js_cls_days_count\">00</span>\n"
+"                        <span class=\"sh_label\">jours</span>\n"
+"                     </span>"
+
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_20
+msgid ""
+"<span class=\"hours\">\n"
+"                        <span class=\"sh_number js_cls_hours_count\">00</span>\n"
+"                        <span class=\"sh_label\">H</span>\n"
+"                     </span>\n"
+"                     <span class=\"minutes\">\n"
+"                        <span class=\"sh_number js_cls_minutes_count\">00</span>\n"
+"                        <span class=\"sh_label\">M</span>\n"
+"                     </span>\n"
+"                     <span class=\"seconds\">\n"
+"                        <span class=\"sh_number js_cls_seconds_count\">00</span>\n"
+"                        <span class=\"sh_label\">S</span>\n"
+"                     </span>"
+msgstr ""
+"<span class=\"hours\">\n"
+"                        <span class=\"sh_number js_cls_hours_count\">00</span>\n"
+"                        <span class=\"sh_label\">H</span>\n"
+"                     </span>\n"
+"                     <span class=\"minutes\">\n"
+"                        <span class=\"sh_number js_cls_minutes_count\">00</span>\n"
+"                        <span class=\"sh_label\">M</span>\n"
+"                     </span>\n"
+"                     <span class=\"seconds\">\n"
+"                        <span class=\"sh_number js_cls_seconds_count\">00</span>\n"
+"                        <span class=\"sh_label\">S</span>\n"
+"                     </span>"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_28
+msgid ""
+"<span class=\"sh_number js_cls_days_count\">00</span>\n"
+"                     <span class=\"sh_label\">days</span>"
+msgstr ""
+"<span class=\"sh_number js_cls_days_count\">00</span>\n"
+"                     <span class=\"sh_label\">jours</span>"
+
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_28
+msgid ""
+"<span class=\"sh_number js_cls_hours_count\">00</span>\n"
+"                     <span class=\"sh_label\">hours</span>"
+msgstr ""
+"<span class=\"sh_number js_cls_hours_count\">00</span>\n"
+"                     <span class=\"sh_label\">les heures</span>"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_28
+msgid ""
+"<span class=\"sh_number js_cls_minutes_count\">00</span>\n"
+"                     <span class=\"sh_label\">minutes</span>"
+msgstr ""
+"<span class=\"sh_number js_cls_minutes_count\">00</span>\n"
+"                     <span class=\"sh_label\">minutes</span>"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_28
+msgid ""
+"<span class=\"sh_number js_cls_seconds_count\">00</span>\n"
+"                     <span class=\"sh_label\">seconds</span>"
+msgstr ""
+"<span class=\"sh_number js_cls_seconds_count\">00</span>\n"
+"                     <span class=\"sh_label\">secondes</span>"
+
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_3
+msgid "<span>Keep calm, we are</span>"
+msgstr "<span>Restez calme, nous sommes</span>"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_19
+msgid "<span>days</span>"
+msgstr "<span>jours</span>"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_19
+msgid "<span>hours</span>"
+msgstr "<span>les heures</span>"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_19
+msgid "<span>minutes</span>"
+msgstr "<span>minutes</span>"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_19
+msgid "<span>seconds</span>"
+msgstr "<span>secondes</span>"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields,field_description:sh_website_coming_soon.field_res_config_settings__sh_website_coming_soon_bg_img
+#: model:ir.model.fields,field_description:sh_website_coming_soon.field_website__sh_website_coming_soon_bg_img
+msgid "Background Image"
+msgstr "Image de fond"
+
+#. module: sh_website_coming_soon
+#: model:ir.model,name:sh_website_coming_soon.model_res_config_settings
+msgid "Config Settings"
+msgstr "Paramètres de configuration"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_13
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_2
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_9
+msgid "Days"
+msgstr "Jours"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields,field_description:sh_website_coming_soon.field_res_config_settings__sh_website_coming_soon_desc
+#: model:ir.model.fields,field_description:sh_website_coming_soon.field_website__sh_website_coming_soon_desc
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_res_config_settings
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_website_form
+msgid "Description"
+msgstr "La description"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields,field_description:sh_website_coming_soon.field_res_config_settings__display_name
+#: model:ir.model.fields,field_description:sh_website_coming_soon.field_website__display_name
+msgid "Display Name"
+msgstr "Afficher un nom"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_13
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_2
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_9
+msgid "Hours"
+msgstr "Les heures"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields,field_description:sh_website_coming_soon.field_res_config_settings__id
+#: model:ir.model.fields,field_description:sh_website_coming_soon.field_website__id
+msgid "ID"
+msgstr "identifiant"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields,field_description:sh_website_coming_soon.field_res_config_settings____last_update
+#: model:ir.model.fields,field_description:sh_website_coming_soon.field_website____last_update
+msgid "Last Modified on"
+msgstr "Dernière modification le"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields,field_description:sh_website_coming_soon.field_res_config_settings__sh_website_coming_soon_launch_date
+#: model:ir.model.fields,field_description:sh_website_coming_soon.field_website__sh_website_coming_soon_launch_date
+msgid "Launch Date"
+msgstr "Date de lancement"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_13
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_2
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_9
+msgid "Minutes"
+msgstr "Minutes"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_13
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_9
+msgid "Seconds"
+msgstr "Secondes"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields,field_description:sh_website_coming_soon.field_res_config_settings__sh_website_coming_soon_style
+#: model:ir.model.fields,field_description:sh_website_coming_soon.field_website__sh_website_coming_soon_style
+msgid "Style"
+msgstr "Style"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_1
+msgid "Style 1"
+msgstr "Style 1"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_10
+msgid "Style 10"
+msgstr "Style 10"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_11
+msgid "Style 11"
+msgstr "Style 11"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_12
+msgid "Style 12"
+msgstr "Style 12"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_13
+msgid "Style 13"
+msgstr "Style 13"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_14
+msgid "Style 14"
+msgstr "Style 14"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_15
+msgid "Style 15"
+msgstr "Style 15"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_16
+msgid "Style 16"
+msgstr "Style 16"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_17
+msgid "Style 17"
+msgstr "Style 17"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_18
+msgid "Style 18"
+msgstr "Style 18"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_19
+msgid "Style 19"
+msgstr "Style 19"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_2
+msgid "Style 2"
+msgstr "Style 2"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_20
+msgid "Style 20"
+msgstr "Style 20"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_21
+msgid "Style 21"
+msgstr "Style 21"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_22
+msgid "Style 22"
+msgstr "Style 22"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_23
+msgid "Style 23"
+msgstr "Style 23"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_24
+msgid "Style 24"
+msgstr "Style 24"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_25
+msgid "Style 25"
+msgstr "Style 25"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_26
+msgid "Style 26"
+msgstr "Style 26"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_27
+msgid "Style 27"
+msgstr "Style 27"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_28
+msgid "Style 28"
+msgstr "Style 28"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_29
+msgid "Style 29"
+msgstr "Style 29"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_3
+msgid "Style 3"
+msgstr "Style 3"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_30
+msgid "Style 30"
+msgstr "Style 30"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_4
+msgid "Style 4"
+msgstr "Style 4"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_5
+msgid "Style 5"
+msgstr "Style 5"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_6
+msgid "Style 6"
+msgstr "Style 6"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_7
+msgid "Style 7"
+msgstr "Style 7"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_8
+msgid "Style 8"
+msgstr "Style 8"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields.selection,name:sh_website_coming_soon.selection__website__sh_website_coming_soon_style__tmpl_9
+msgid "Style 9"
+msgstr "Style 9"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields,field_description:sh_website_coming_soon.field_res_config_settings__sh_website_coming_soon_title
+#: model:ir.model.fields,field_description:sh_website_coming_soon.field_website__sh_website_coming_soon_title
+msgid "Title"
+msgstr "Titre"
+
+#. module: sh_website_coming_soon
+#: model:ir.model,name:sh_website_coming_soon.model_website
+msgid "Website"
+msgstr "Site Internet"
+
+#. module: sh_website_coming_soon
+#: model:ir.model.fields,field_description:sh_website_coming_soon.field_res_config_settings__sh_website_coming_soon_is_coming_soon
+#: model:ir.model.fields,field_description:sh_website_coming_soon.field_website__sh_website_coming_soon_is_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_res_config_settings
+msgid "Website Coming Soon"
+msgstr "Site Web à venir"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_10
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_12
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_14
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_16
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_17
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_18
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_29
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_4
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_5
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_6
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_7
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_8
+msgid "days"
+msgstr "jours"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_15
+msgid "days /"
+msgstr "jours /"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_10
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_12
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_14
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_16
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_17
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_18
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_29
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_4
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_5
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_6
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_7
+msgid "hours"
+msgstr "les heures"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_8
+msgid "hrs"
+msgstr "heures"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_8
+msgid "min"
+msgstr "min"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_10
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_12
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_14
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_16
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_17
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_18
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_29
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_4
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_5
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_6
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_7
+msgid "minutes"
+msgstr "minutes"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_15
+msgid "minutes /"
+msgstr "minutes /"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_8
+msgid "sec"
+msgstr "seconde"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_10
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_6
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_7
+msgid "second"
+msgstr "seconde"
+
+#. module: sh_website_coming_soon
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_12
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_14
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_15
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_16
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_17
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_18
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_2
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_29
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_4
+#: model_terms:ir.ui.view,arch_db:sh_website_coming_soon.sh_website_coming_soon_tmpl_5
+msgid "seconds"
+msgstr "secondes"
